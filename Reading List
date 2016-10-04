@@ -2,3 +2,5 @@ A reading list page where we can all share webpages for research or guidance.
 
 A library and walk through on how to create PDF files using C#
 http://csharp.net-informations.com/file/create-pdf.htm
+Another website using Excel to create the template then saving the file in a PDF format.
+https://social.msdn.microsoft.com/Forums/office/en-US/b4059e86-b3cd-4317-8a39-efb84a021825/create-pdf-files-in-c?forum=exceldev
