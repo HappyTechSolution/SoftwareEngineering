@@ -1,0 +1,12 @@
+C:\Users\Angus\Software eng project\PDFversion1\PDFversion1\bin\Debug\PDFversion1.exe.config
+C:\Users\Angus\Software eng project\PDFversion1\PDFversion1\bin\Debug\PDFversion1.exe
+C:\Users\Angus\Software eng project\PDFversion1\PDFversion1\bin\Debug\PDFversion1.pdb
+C:\Users\Angus\Software eng project\PDFversion1\PDFversion1\bin\Debug\itextsharp.dll
+C:\Users\Angus\Software eng project\PDFversion1\PDFversion1\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Angus\Software eng project\PDFversion1\PDFversion1\bin\Debug\itextsharp.xtra.dll
+C:\Users\Angus\Software eng project\PDFversion1\PDFversion1\obj\Debug\PDFversion1.csprojResolveAssemblyReference.cache
+C:\Users\Angus\Software eng project\PDFversion1\PDFversion1\obj\Debug\PDFversion1.Form1.resources
+C:\Users\Angus\Software eng project\PDFversion1\PDFversion1\obj\Debug\PDFversion1.Properties.Resources.resources
+C:\Users\Angus\Software eng project\PDFversion1\PDFversion1\obj\Debug\PDFversion1.csproj.GenerateResource.Cache
+C:\Users\Angus\Software eng project\PDFversion1\PDFversion1\obj\Debug\PDFversion1.exe
+C:\Users\Angus\Software eng project\PDFversion1\PDFversion1\obj\Debug\PDFversion1.pdb
